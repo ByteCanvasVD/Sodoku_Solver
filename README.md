@@ -2,7 +2,7 @@
 Welcome to the Sudoku Solver GitHub repository! Sudoku is a classic game that tests your logical reasoning skills. This repository provides an implementation of a Sudoku solver capable of tackling 9x9 Sudoku puzzles.
 <br>
 <br>
-<!-- *Key Features:*
+ *Key Features:*
 
 1. *Logic-Driven Solver:* Our Sudoku solver employs pure logic to crack Sudoku puzzles. It ensures that every row, column, and 3x3 square contains the numbers 1 to 9, with no duplicates.
 
@@ -11,4 +11,4 @@ Welcome to the Sudoku Solver GitHub repository! Sudoku is a classic game that te
 3. *Interactive Input:* You can input Sudoku puzzles manually and watch as the solver works its magic to deliver a solution.
 
 Challenge yourself, hone your logical thinking skills, and enjoy the satisfaction of effortlessly solving Sudoku puzzles!
-*Happy Sudoku solver ** -->
+*Happy Sudoku solver ** 
